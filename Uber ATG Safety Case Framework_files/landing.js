@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{T6gK:function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/landing",function(){var n=o("mD38");return{page:n.default||n}}])}},[["T6gK",1,0]]]);
+//# sourceMappingURL=landing.js.map
